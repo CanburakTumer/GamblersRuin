@@ -38,7 +38,7 @@ while(n > l && n < w){
   }
 }
 
-if(n == 0) {
+if(n == l) {
   print("GAMBLER RUINED!")
 } else print("GAMBLER WON THIS TIME!")
 ## PROGRAM ENDS
